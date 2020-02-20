@@ -10,4 +10,4 @@ source(here("R", "funs.R"))
 # https://doi.org/10.1007/s10071-016-1064-4
 
 myresults <- game()
-write.csv(myresults, here("data", "raw", "my_unique_name.csv"))
+write.csv(myresults, here("data", "raw", "speedy_triplll.csv"))
